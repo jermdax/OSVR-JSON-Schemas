@@ -34,7 +34,7 @@ The *`field_of_view`* section defines the optical parameters of the HMD. Since s
 
 ![](dSight-viewing-angles.png)
 
-In this example, the left eye extends from -60 to +35 degrees and the right eye from +35 to -60 degrees. Thus, the common area -- or overlap -- between the eyes is from -35 to +35 degrees which is a total of 70 degrees. Hence:
+In this example, the left eye extends from -60 to +35 degrees and the right eye from -35 to +60 degrees. Thus, the common area -- or overlap -- between the eyes is from -35 to +35 degrees which is a total of 70 degrees. Hence:
 
 - The monocular horizontal field of view is 60 + 35 = 95 degrees
 - The binocular overlap is 70/95 = 73.68%
